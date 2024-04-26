@@ -13,7 +13,7 @@ This project consists of a simple implementation of a linear regression algorith
 1. **Install Dependencies:** Make sure you have Node.js installed on your machine.
 2. **Clone the Repository:** Clone this repository to your local machine using the following command:
 ```shell
-   git clone <repository_url>
+   git clone https://github.com/AxelFdez/linear_regression.git
 ```
 
 3. **Predict Car Price:** Launch the prediction program by running the following command:
