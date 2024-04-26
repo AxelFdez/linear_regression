@@ -16,22 +16,22 @@ This project consists of a simple implementation of a linear regression algorith
    git clone <repository_url>
 ```
 
-4. **Predict Car Price:** Launch the prediction program by running the following command:
+3. **Predict Car Price:** Launch the prediction program by running the following command:
 ```shell
    node estimatePrice.js
 ```
 Follow the prompts to enter the mileage of the car and get a price estimation.
-5. **Train the Model:** Launch the training program by running the following command:
+4. **Train the Model:** Launch the training program by running the following command:
 ```shell
    node train.js
 ```
 The linear regression algorithm will be trained on the provided data.
-6. **Visualize Data:** To visualize the data, running the following command:
+5. **Visualize Data:** To visualize the data, running the following command:
 ```shell
    node drawGraph.js
 ```
 then, open the `graph.html` file in your web browser.
-7. **Test Algorithm Performance:** To test the algorithm, running the following command:
+6. **Test Algorithm Performance:** To test the algorithm, running the following command:
 ```shell
    node iaPerformance.js
 ```
